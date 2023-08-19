@@ -17,7 +17,7 @@ export default function Home() {
                 ERVAN ADE WIJAYA{" "}
               </h5>
               <h1 className="text-[#22293E] font-bold text-2xl lg:text-6xl mt-1 mb-6">
-                Find Your Way Of Success
+                I'am Full Stack Developer
               </h1>
               <p className="text-[#22293E] font-normal text-lg lg:text-2xl">
                 We help you to increase self-confidence and train yourself in a
@@ -32,7 +32,7 @@ export default function Home() {
                 </button>
               </div>
             </div>
-            <div className="hero__right w-full lg:w-1/2 mb-8 lg:mb-0">
+            <div className="hero__right w-full px-10 lg:w-1/2 mb-8 lg:mb-0 flex items-center justify-center">
               <img
                 src="/assets/foto-ervan-3.svg"
                 alt="logo"
